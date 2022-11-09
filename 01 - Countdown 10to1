@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="title" content="Counting 10 to 1">
+<meta name="description" content="Have a look at the flipping of colors with each countdown number.">
+<meta name="keywords" content="countdown,number,sarabjeet,projects,javascript">
+<meta name="robots" content="index, follow">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="language" content="English">
+<meta name="author" content="Sarabjeet Singh">
+<title>10 to 1 counting</title>
+</head>
+<body>
+<div id ="counter"></div>
+<script src="script.js"></script>
+</body>
+</html>
