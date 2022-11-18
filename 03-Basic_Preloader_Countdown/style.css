@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap');
+
+html, body {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+.positioned {
+  font-size: 8rem;
+  position: absolute;
+  top:50%;
+  left:50%;
+  transform: translate(-50%,-50%);
+  z-index: 3;
+  background: #fff;
+}
+
+.cover {
+  display: none;
+  z-index: 2;
+  
+}
+
+.left-curtain, .right-curtain{
+  font-size: 3rem;
+  font-family: 'Abril Fatface', cursive;
+  width:100%;
+  height:100vh;
+  padding:50% 12px 0 12px;
+  border:2px #000000 solid;
+}
